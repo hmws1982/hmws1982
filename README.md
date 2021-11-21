@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hmws1982
 - 👀 I’m interested in ...learning to code
 - 🌱 I’m currently learning ...slowly
-- 💞️ I’m looking to collaborate on ...idk
+- 💞️ I’m looking to collaborate on ...a new game maybe
 - 📫 How to reach me ...hmws1982@gmail.com
 
 <!---
